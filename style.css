@@ -1,0 +1,41 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-color: #cbeaa6;
+    color: #3d0b37;
+}
+header {
+    background:#C0D684;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+main {
+    padding: 20px;
+    text-align: center;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 10px 0;
+}
+footer {
+    background: #C0D684;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 20px;
+}
